@@ -1,5 +1,3 @@
-#python3
-
 ### Lambda ###
 
 # Lambdas are one line functions. They are also known as anonymous functions in some other languages. 
